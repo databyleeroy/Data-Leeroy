@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Data-Leeroy!
+👋 Hi, I'm Leeroy!
 
 👀 I have a keen interest in exploring and interpreting data to uncover valuable insights and patterns.
 
